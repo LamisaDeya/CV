@@ -1,0 +1,7 @@
+I have used i2pdf tool for converting pdf to html and pdf to image
+I have created a repo with readme file option
+then I have added the html and pdf files
+then go to settings then at the right bar there is pages
+then at pages I have selected main and save
+after sometime there is an url at the top
+for image in readme,I go to issues.upload the im age and just copy the url and nothing change.then I have pasted the url to the readme file(at readme file at the right top,there is a pen sign here I can add the url) then commit changes.
